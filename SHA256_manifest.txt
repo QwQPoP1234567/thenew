@@ -1,0 +1,21 @@
+SHA256 MANIFEST FOR VEP_AUDIT
+============================================================
+
+INPUT FILES (hashed, not copied to audit):
+  make_v3b.ps1: 8329 bytes, SHA256=ab95e714de5577bbf3e9ff6cbd5815a9c0f607a504fa2ad732b808f423cde1f8
+  make_v4.ps1: 5776 bytes, SHA256=87dfe03030b523cc889709c6b548b1cf15a8c357b2688fd8af83a196ecbf6018
+  test13m.mp4: 36334062 bytes, SHA256=32915ab531f4f58a600b01845775144f6e715d25b447490ccaa334f6ff9e1213
+  INPUT_VEP_source.vep: 36334863 bytes, SHA256=5d8b7ec0f657649676b8af33d544498a2a4a4a2815ac0e27750af588cf239938
+  reference_correct_color.avi(MD5 ref only): 97259846 bytes, SHA256=f2c82e2cf01e3b1d7eaa30ff49be06dde08c408767b3496755a8994538465166
+
+OUTPUT FILES (generated in this audit):
+  decode.log: 22743 bytes, SHA256=b85e6834dd6e3ceab2061701d92f6fac310bf9e80d4d31a56355428ef179858b
+  execution_commands.txt: 1159 bytes, SHA256=55698158431cbf3f7393215a33d04bb6897a3134e18ec2ba9977f7a617ae5dd4
+  frame_0_0pct.png: 8604 bytes, SHA256=88f52682aadd60798cb05852e1fe91caa11228e40c3242ffbaedefa93f012e87
+  frame_count_analysis.json: 958 bytes, SHA256=4c6c3536d7caf04e76bd74aba4405605dd3da2525ddc4dcb01f0aba75044f839
+  frames.framemd5: 928936 bytes, SHA256=6f8593ecc1b5b8cc248ab2d782b0182fa75f9b5d91a72e314f0dfea21dcb1b92
+  make_v3b.ps1: 8329 bytes, SHA256=ab95e714de5577bbf3e9ff6cbd5815a9c0f607a504fa2ad732b808f423cde1f8
+  make_v4.ps1: 5776 bytes, SHA256=87dfe03030b523cc889709c6b548b1cf15a8c357b2688fd8af83a196ecbf6018
+  probe.json: 5978 bytes, SHA256=3e5d2bbddac5b797b83d99f1a29b6ca22874da4efa21e4a07cfce92c9a56a463
+  test13m.mp4: 36334062 bytes, SHA256=32915ab531f4f58a600b01845775144f6e715d25b447490ccaa334f6ff9e1213
+  track_info.json: 1422 bytes, SHA256=a77220fda44d74b9cd437158bf1a50ede41dbf846c8366026b34a37f89ae525d

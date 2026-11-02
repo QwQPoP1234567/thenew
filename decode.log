@@ -1,0 +1,267 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000248d9cc4180] st: 2 edit list: 1 Missing key frame while searching for timestamp: 0
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000248d9cc4180] st: 2 edit list 1 Cannot find an index entry before timestamp: 0.
+[mp3float @ 00000248d9d65100] Header missing
+    Last message repeated 1 times
+[h264 @ 00000248dbaf1980] SEI type 5 size 730 truncated at 682
+[h264 @ 00000248dbaf1980] SEI type 5 size 730 truncated at 681
+[h264 @ 00000248dbaf1980] top block unavailable for requested intra mode
+[h264 @ 00000248dbaf1980] error while decoding MB 7 0, bytestream 32793
+[mp3float @ 00000248d9d65100] Header missing
+    Last message repeated 1 times
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000248d9cc4180] Could not find codec parameters for stream 0 (Audio: mp3 (mp3float) (dumm / 0x6D6D7564), 48000 Hz, 2 channels, fltp, 127 kb/s): unspecified frame size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[aist#0:0/mp3 @ 00000248d9d69800] Guessed Channel Layout: stereo
+[h264 @ 00000248dbc40900] SEI type 5 size 730 truncated at 681
+[h264 @ 00000248dbc40900] top block unavailable for requested intra mode
+[h264 @ 00000248dbc40900] error while decoding MB 7 0, bytestream 32793
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] corrupt decoded frame
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1358956855 > 124502).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 124506
+[h264 @ 00000248dbc40900] Invalid NAL unit size (-1358956855 > 124502).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (2077771173 > 67211).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 67215
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (2077771173 > 67211).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1616101875 > 75688).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 75692
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (1616101875 > 75688).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-159673892 > 81145).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 81149
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (-159673892 > 81145).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1555393684 > 129390).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 129394
+[h264 @ 00000248dc320040] Invalid NAL unit size (-1555393684 > 129390).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (156694366 > 119549).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 119553
+[h264 @ 00000248dbf3ce40] Invalid NAL unit size (156694366 > 119549).
+[h264 @ 00000248dbf3ce40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (464121256 > 129552).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 129556
+[h264 @ 00000248dbf3bb40] Invalid NAL unit size (464121256 > 129552).
+[h264 @ 00000248dbf3bb40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1349660318 > 135266).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 135270
+[h264 @ 00000248d9d67a80] Invalid NAL unit size (1349660318 > 135266).
+[h264 @ 00000248d9d67a80] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1905638852 > 153021).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 153025
+[h264 @ 00000248dc320600] Invalid NAL unit size (1905638852 > 153021).
+[h264 @ 00000248dc320600] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-872114881 > 145372).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 145376
+[h264 @ 00000248dbc40900] Invalid NAL unit size (-872114881 > 145372).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (383737653 > 124799).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 124803
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (383737653 > 124799).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-202426376 > 120158).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 120162
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (-202426376 > 120158).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1478689566 > 124872).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 124876
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (-1478689566 > 124872).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1286947600 > 127624).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 127628
+[h264 @ 00000248dc320040] Invalid NAL unit size (-1286947600 > 127624).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-637596941 > 133668).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 133672
+[h264 @ 00000248dbf3ce40] Invalid NAL unit size (-637596941 > 133668).
+[h264 @ 00000248dbf3ce40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1371852667 > 123730).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 123734
+[h264 @ 00000248dbf3bb40] Invalid NAL unit size (-1371852667 > 123730).
+[h264 @ 00000248dbf3bb40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1514208516 > 109489).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 109493
+[h264 @ 00000248d9d67a80] Invalid NAL unit size (-1514208516 > 109489).
+[h264 @ 00000248d9d67a80] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (986949687 > 142122).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 142126
+[h264 @ 00000248dc320600] Invalid NAL unit size (986949687 > 142122).
+[h264 @ 00000248dc320600] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1831360421 > 128296).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 128300
+[h264 @ 00000248dbc40900] Invalid NAL unit size (-1831360421 > 128296).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-454204696 > 148879).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 148883
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (-454204696 > 148879).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1587195296 > 148439).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 148443
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (1587195296 > 148439).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1382424044 > 126954).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 126958
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (1382424044 > 126954).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1423339274 > 143970).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 143974
+[h264 @ 00000248dc320040] Invalid NAL unit size (1423339274 > 143970).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-761095194 > 140115).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 140119
+[h264 @ 00000248dbf3ce40] Invalid NAL unit size (-761095194 > 140115).
+[h264 @ 00000248dbf3ce40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1588413256 > 147219).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 147223
+[h264 @ 00000248dbf3bb40] Invalid NAL unit size (1588413256 > 147219).
+[h264 @ 00000248dbf3bb40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-573850216 > 129770).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 129774
+[h264 @ 00000248d9d67a80] Invalid NAL unit size (-573850216 > 129770).
+[h264 @ 00000248d9d67a80] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1805113941 > 138403).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 138407
+[h264 @ 00000248dc320600] Invalid NAL unit size (-1805113941 > 138403).
+[h264 @ 00000248dc320600] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (644036560 > 163736).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 163740
+[h264 @ 00000248dbc40900] Invalid NAL unit size (644036560 > 163736).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (991212566 > 168620).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 168624
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (991212566 > 168620).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1175298050 > 136118).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 136122
+[h264 @ 00000248dbc40900] Invalid NAL unit size (-1175298050 > 136118).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[h264 @ 00000248dc320600] co located POCs unavailable
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[null @ 00000248d9d8f740] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 7315 >= 7314
+[null @ 00000248d9d8f740] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 7315 >= 7315
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1632780938 > 147710).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 147714
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (-1632780938 > 147710).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1465819960 > 123066).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 123070
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (1465819960 > 123066).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (726470687 > 163599).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 163603
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (726470687 > 163599).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1663184592 > 162416).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 162420
+[h264 @ 00000248dc320040] Invalid NAL unit size (1663184592 > 162416).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[h264 @ 00000248dbf3bb40] reference picture missing during reorder
+[h264 @ 00000248dbf3bb40] Missing reference picture, default is 82500
+[h264 @ 00000248dbf3ce40] mmco: unref short failure
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-2021194366 > 162593).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 162597
+[h264 @ 00000248dbf3ce40] Invalid NAL unit size (-2021194366 > 162593).
+[h264 @ 00000248dbf3ce40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (2008898333 > 148042).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 148046
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (2008898333 > 148042).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[h264 @ 00000248dbc40900] co located POCs unavailable
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1195033725 > 169536).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 169540
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (-1195033725 > 169536).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1036487859 > 157080).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 157084
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (1036487859 > 157080).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (614659174 > 163788).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 163792
+[h264 @ 00000248dc320040] Invalid NAL unit size (614659174 > 163788).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-1937999921 > 145769).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 145773
+[h264 @ 00000248dbf3ce40] Invalid NAL unit size (-1937999921 > 145769).
+[h264 @ 00000248dbf3ce40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1105561632 > 132907).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 132911
+[h264 @ 00000248dbf3bb40] Invalid NAL unit size (1105561632 > 132907).
+[h264 @ 00000248dbf3bb40] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (1564301172 > 148436).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 148440
+[h264 @ 00000248d9d67a80] Invalid NAL unit size (1564301172 > 148436).
+[h264 @ 00000248d9d67a80] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (193385888 > 206702).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 206706
+[h264 @ 00000248dc320600] Invalid NAL unit size (193385888 > 206702).
+[h264 @ 00000248dc320600] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-646022904 > 122851).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 122855
+[h264 @ 00000248dbc40900] Invalid NAL unit size (-646022904 > 122851).
+[h264 @ 00000248dbc40900] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (130222814 > 130411).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 130415
+[h264 @ 00000248dbf3c880] Invalid NAL unit size (130222814 > 130411).
+[h264 @ 00000248dbf3c880] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (8704753 > 124031).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 124035
+[h264 @ 00000248dbf3a4c0] Invalid NAL unit size (8704753 > 124031).
+[h264 @ 00000248dbf3a4c0] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (919300760 > 139328).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 139332
+[h264 @ 00000248d9d66f40] Invalid NAL unit size (919300760 > 139328).
+[h264 @ 00000248d9d66f40] Error splitting the input into NAL units.
+[h264 @ 00000248dbf3ce40] reference picture missing during reorder
+[h264 @ 00000248dbf3ce40] Missing reference picture, default is 88708
+[h264 @ 00000248dc320040] mmco: unref short failure
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input
+[h264 @ 00000248dbaf0b80] Invalid NAL unit size (-350478839 > 124542).
+[h264 @ 00000248dbaf0b80] missing picture in access unit with size 124546
+[h264 @ 00000248dc320040] Invalid NAL unit size (-350478839 > 124542).
+[h264 @ 00000248dc320040] Error splitting the input into NAL units.
+[vist#0:2/h264 @ 00000248d9daeb80] [dec:h264 @ 00000248dbc3c6c0] Error submitting packet to decoder: Invalid data found when processing input

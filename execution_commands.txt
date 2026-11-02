@@ -1,0 +1,19 @@
+# make_v3b execution audit
+# Source: make_v3b.ps1
+# Input: 1、工程统筹.vep (SHA256=5d8b7ec0f657649676b8af33d544498a2a4a4a2815ac0e27750af588cf239938)
+# Note: make_v3b.ps1 was executed on 2026-10-31 to produce FINAL.mp4
+#       Output file size: 36334062B
+#       This script uses recursive box scanning to locate trak/stbl tables
+# Requirements: PowerShell 64-bit (for make_v3b runtime), .NET standard
+# FFmpeg: NOT used by make_v3b (it is pure PowerShell binary patching)
+# Python: NOT used by make_v3b
+---
+POTENTIAL ISSUES IDENTIFIED IN SOURCE:
+1. ConvertFrom-Json: NOT USED in make_v3b.ps1 (binary raw read/write only)
+2. Variable reuse risk: minimal - each box scan is self-contained function scope
+3. Path encoding: PhD VEP path contains Chinese characters (UTF-8); PowerShell 64-bit handles
+   correctly without GBK conversion needed
+4. Frame count source: stsz sampleCount (file metadata, not decoder-reported)
+   Actual decode count may differ (see decode.log)
+5. Exception handling: ErrorActionPreference = Continue, so partial failure possible
+6. Success reporting: script does NOT verify output correctness (only writes bytes)

@@ -1,0 +1,11 @@
+{
+  "declared_in_stsz": 11687,
+  "declared_in_stsz_source": "VEP moov video track stsz sampleCount field",
+  "vmem_captured": 703,
+  "vmem_captured_source": "vmem_capture_worker.ps1 JPEG frame file count (E:/huangfeng/jpg_frames/)",
+  "actually_decoded": 11609,
+  "actually_decoded_source": "ffmpeg framemd5 output line count",
+  "explanation_vmem_703": "The vmem worker captured 703 frames in ~23.4 seconds before the process terminated prematurely (worker bug: rate parameter not evaluated, WriterLoop join timeout too short). 703/30fps = 23.43s. This is NOT the full 389.6s video.",
+  "explanation_stsz_11687": "The VEP moov stsz sampleCount=11687 is the container-declared total video samples for the full 6:29 (389.6s) duration at 30fps: 389.6*30=11688~11687.",
+  "explanation_relationship": "703 is a subset of 11687. The vmem worker only operated for the first ~23 seconds before prematurely stopping. It did NOT capture all 11687 frames."
+}
